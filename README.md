@@ -1,6 +1,9 @@
-                                                  Hi 👋, I'm Akinnimi Emmanuel :heart_eyes:
+<h1 align="center">Hi 👋, I'm Akinnimi Emmanuel :heart_eyes:</h1>
 
-https://user-images.githubusercontent.com/76561892/190924277-b8f3398a-4631-4d01-87d0-b0623c813b5d.mp4
+
+
+![welcome to my nest](https://user-images.githubusercontent.com/76561892/190925067-16d43e79-d12f-477e-9ad6-ec2063f9e2c9.gif)
+
 
 
 <h3 align="center">A passionate :green_heart: frontend developer :green_heart: from Nigeria :green_heart:</h3>
