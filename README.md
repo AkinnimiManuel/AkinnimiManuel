@@ -1,5 +1,13 @@
-https://github.com/AkinnimiManuel/AkinnimiManuel/blob/main/welcome%20to%20my%20nest.mp4
+                                                  Hi 👋, I'm Akinnimi Emmanuel :heart_eyes:
+
+https://user-images.githubusercontent.com/76561892/190924277-b8f3398a-4631-4d01-87d0-b0623c813b5d.mp4
+
+
 <h3 align="center">A passionate :green_heart: frontend developer :green_heart: from Nigeria :green_heart:</h3>
+
+
+
+
 
 <p align="left"> <a href="https://twitter.com/emmylash_tins" target="blank"><img src="https://img.shields.io/twitter/follow/emmylash_tins?logo=twitter&style=for-the-badge" alt="emmylash_tins" /></a> </p>
 
@@ -12,6 +20,10 @@ https://github.com/AkinnimiManuel/AkinnimiManuel/blob/main/welcome%20to%20my%20n
 - 📄 Know about my experiences [https://akinnimimanuel.github.io/MyResume/](https://akinnimimanuel.github.io/MyResume/)
 
 - ⚡ Fun fact **I love Playing Games**
+
+
+![AKinnimi Manuel GitHub stats](https://github-readme-stats.vercel.app/api?username=AkinnimiManuel&show_icons=true&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
