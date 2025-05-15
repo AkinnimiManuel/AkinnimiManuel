@@ -2,9 +2,6 @@
 
 
 
-![welcome to my nest](https://user-images.githubusercontent.com/76561892/190925067-16d43e79-d12f-477e-9ad6-ec2063f9e2c9.gif)
-
-
 
 <h3 align="center">A passionate :green_heart: IT Enginner :green_heart: from Nigeria :green_heart:</h3>
 
