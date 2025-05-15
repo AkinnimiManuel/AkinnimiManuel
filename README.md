@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">A passionate :green_heart: frontend developer :green_heart: from Nigeria :green_heart:</h3>
+<h3 align="center">A passionate :green_heart: IT Enginner :green_heart: from Nigeria :green_heart:</h3>
 
 
 
@@ -14,13 +14,11 @@
 
 <p align="left"> <a href="https://twitter.com/emmylash_tins" target="blank"><img src="https://img.shields.io/twitter/follow/emmylash_tins?logo=twitter&style=for-the-badge" alt="emmylash_tins" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Azure and AWS**
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, WordPress, PhP, JavaScript, React.**
+- 💬 Ask me about **Active Directory, Microsoft 365, Azure, Linux, HomeLabs and virtualization, Python, HTML, CSS, Tailwind CSS, WordPress, JavaScript**
 
 - 📫 How to reach me **akinnimiemmanuel@gmail.com**
-
-- 📄 Know about my experiences [https://akinnimimanuel.github.io/MyResume/](https://akinnimimanuel.github.io/MyResume/)
 
 - ⚡ Fun fact **I love Playing Games**
 
