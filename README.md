@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/emmylash_tins" target="blank"><img src="https://img.shields.io/twitter/follow/emmylash_tins?logo=twitter&style=for-the-badge" alt="emmylash_tins" /></a> </p>
 
-- 🌱 I’m currently learning **Azure and AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Active Directory, Microsoft 365, Azure, Linux, HomeLabs and virtualization, Python, HTML, CSS, Tailwind CSS, WordPress, JavaScript**
 
