@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">A passionate :green_heart: IT Enginner :green_heart: from Nigeria :green_heart:</h3>
+<h3 align="center">A passionate :green_heart: IT Engineer :green_heart: from Nigeria :green_heart:</h3>
 
 
 
