@@ -20,6 +20,10 @@
 - ⚡ Fun fact **I love Playing Games**
 
 
+- Here's where theory meets practice — take a look at my IT Engineering Portfolio:
+[IT Engineering Portfolio](https://github.com/AkinnimiManuel/IT-Engineering-Portfolio)
+
+
 ![AKinnimi Manuel GitHub stats](https://github-readme-stats.vercel.app/api?username=AkinnimiManuel&show_icons=true&theme=radical)
 
 
