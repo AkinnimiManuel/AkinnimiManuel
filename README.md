@@ -10,10 +10,10 @@
 
 - 📫 How to reach me **akinnimiemmanuel@gmail.com**
 
-- ⚡ Fun fact **I love Playing Footbal & Video Games 😉**
+- ⚡ Fun fact **I love Playing Football & Video Games 😉**
 
 
-- Here's where theory meets practice — take a look at my IT Engineering Portfolio: <br>
+- Here's where theory meets practice — take a look at my projects: <br>
 [IT Engineering Portfolio](https://github.com/AkinnimiManuel/IT-Engineering-Portfolio) <br>
 [Enterprise Microsoft 365 Deployment](https://github.com/AkinnimiManuel/Enterprise-Microsoft-365-Deployment)
 
