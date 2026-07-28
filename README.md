@@ -6,7 +6,7 @@
 <h3 align="center">A passionate :green_heart: System Administrator & Microsoft 365 Expert Engineer :green_heart:</h3>
 
 
-<p align="left"> <a href="https://twitter.com/emmylash_tins" target="blank"><img src="https://img.shields.io/twitter/follow/emmylash_tins?logo=twitter&style=for-the-badge" alt="emmylash_tins" /></a> </p>
+<p align="left"> <img src="https://img.shields.io/twitter/follow/emmylash_tins?logo=twitter&style=for-the-badge" alt="emmylash_tins" /></a> </p>
 
 - 💬 Ask me about **Active Directory, Microsoft 365, Powershell, Microsoft Graph, Remote support, Azure, AWS, Linux, HomeLabs and virtualization, Python, HTML, CSS, Tailwind CSS, WordPress, JavaScript**
 
