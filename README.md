@@ -17,7 +17,7 @@
 
 - Here's where theory meets practice — take a look at my IT Engineering Portfolio:
 [IT Engineering Portfolio](https://github.com/AkinnimiManuel/IT-Engineering-Portfolio)
-
+[Enterprise Microsoft 365 Deployment](https://github.com/AkinnimiManuel/Enterprise-Microsoft-365-Deployment)
 
 
 <h3 align="left">Connect with me:</h3>
