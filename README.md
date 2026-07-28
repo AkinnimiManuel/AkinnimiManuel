@@ -6,8 +6,6 @@
 <h3 align="center">A passionate :green_heart: System Administrator & Microsoft 365 Expert Engineer :green_heart:</h3>
 
 
-<p align="left"> <img src="https://img.shields.io/twitter/follow/emmylash_tins?logo=twitter&style=for-the-badge" alt="emmylash_tins" /></a> </p>
-
 - 💬 Ask me about **Active Directory, Microsoft 365, Powershell, Microsoft Graph, Remote support, Azure, AWS, Linux, HomeLabs and virtualization, Python, HTML, CSS, Tailwind CSS, WordPress, JavaScript**
 
 - 📫 How to reach me **akinnimiemmanuel@gmail.com**
@@ -15,7 +13,7 @@
 - ⚡ Fun fact **I love Playing Footbal & Video Games 😉**
 
 
-- Here's where theory meets practice — take a look at my IT Engineering Portfolio:
+- Here's where theory meets practice — take a look at my IT Engineering Portfolio: <br>
 [IT Engineering Portfolio](https://github.com/AkinnimiManuel/IT-Engineering-Portfolio) <br>
 [Enterprise Microsoft 365 Deployment](https://github.com/AkinnimiManuel/Enterprise-Microsoft-365-Deployment)
 
