@@ -16,7 +16,8 @@
 - Here's where theory meets practice — take a look at my projects: <br>
 [IT Engineering Portfolio](https://github.com/AkinnimiManuel/IT-Engineering-Portfolio) <br>
 [Enterprise Microsoft 365 Deployment](https://github.com/AkinnimiManuel/Enterprise-Microsoft-365-Deployment)<br>
-[WSCIJ Digital Transformation](https://github.com/AkinnimiManuel/WSCIJ-M365-Digital-Transformation)
+[WSCIJ Digital Transformation](https://github.com/AkinnimiManuel/WSCIJ-M365-Digital-Transformation)<br>
+[Enterprise Intune Device Management](https://github.com/AkinnimiManuel/Enterprise-Intune-Device-Management)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
